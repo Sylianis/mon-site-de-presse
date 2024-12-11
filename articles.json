@@ -1,0 +1,90 @@
+[
+    {
+        "week": "Semaine 50 - 2024",
+        "articles": [
+            {
+                "id": 1,
+                "title": "Explosion dans une usine chimique",
+                "date": "11/12/2024",
+                "content": "Une explosion a ravagé une usine située en périphérie de Toulouse hier soir."
+            },
+            {
+                "id": 2,
+                "title": "Un signal radio capté dans l'espace",
+                "date": "10/12/2024",
+                "content": "Les chercheurs ont détecté un signal étrange provenant de la galaxie M87."
+            },
+            {
+                "id": 3,
+                "title": "Un chien maire d'un village",
+                "date": "09/12/2024",
+                "content": "Un village américain a élu un golden retriever comme maire symbolique."
+            }
+        ]
+    },
+{
+    "week": "Semaine 51 - 2024",
+    "articles": [
+        {
+            "id": 1,
+            "title": "Une pluie d'étoiles filantes illumine le ciel d'hiver",
+            "date": "16/12/2024",
+            "content": "Des milliers d'astronomes amateurs et curieux ont levé les yeux au ciel pour observer la spectaculaire pluie d'étoiles filantes des Géminides. Le phénomène, visible dans toute l'Europe, a offert des dizaines de traînées lumineuses par minute. Certains observateurs ont rapporté avoir vu des météores particulièrement brillants, appelés bolides, traverser l'atmosphère à une vitesse impressionnante."
+        },
+        {
+            "id": 2,
+            "title": "Une mystérieuse sphère noire découverte sur une plage bretonne",
+            "date": "17/12/2024",
+            "content": "Un promeneur matinal a découvert une grande sphère noire métallique échouée sur une plage près de Quimper. Les autorités locales, intriguées, ont fait appel à des experts en aéronautique et en sciences marines. Bien que les spéculations sur son origine abondent, certains pensent qu'il pourrait s'agir d'un fragment de satellite ou d'un dispositif expérimental."
+        },
+        {
+            "id": 3,
+            "title": "Un petit village sauvé grâce à une levée de fonds inédite",
+            "date": "18/12/2024",
+            "content": "Les habitants de Saint-Clément-les-Roches, un village de 320 âmes, ont réussi à collecter plus de 500 000 euros en seulement trois jours pour sauver leur unique école de la fermeture. La campagne, relayée sur les réseaux sociaux, a attiré des dons du monde entier. Le maire a salué cet élan de solidarité, soulignant l'importance de l'éducation rurale."
+        },
+        {
+            "id": 4,
+            "title": "Des drones mystérieux survolent des centrales nucléaires",
+            "date": "19/12/2024",
+            "content": "Les autorités françaises enquêtent sur plusieurs survols illégaux de centrales nucléaires par des drones non identifiés. Ces incidents, survenus principalement en région Rhône-Alpes, soulèvent des questions sur la sécurité des installations critiques. Le gouvernement a annoncé des mesures renforcées pour détecter et intercepter ces engins volants."
+        },
+        {
+            "id": 5,
+            "title": "Un collectionneur trouve un manuscrit perdu de Victor Hugo",
+            "date": "19/12/2024",
+            "content": "Lors d'une vente aux enchères à Paris, un collectionneur a mis la main sur un manuscrit inédit attribué à Victor Hugo. Ce document, daté de 1842, contient des esquisses et des notes sur des projets littéraires restés inachevés. Les experts littéraires se réjouissent de cette découverte qui pourrait offrir un éclairage inédit sur le génie de l'auteur."
+        },
+        {
+            "id": 6,
+            "title": "Une ferme entièrement automatisée ouvre ses portes au public",
+            "date": "20/12/2024",
+            "content": "À proximité de Lyon, une ferme ultra-moderne gérée par des robots et des systèmes d'intelligence artificielle a accueilli ses premiers visiteurs. Cette installation, considérée comme l'avenir de l'agriculture, produit des légumes sans intervention humaine directe. Les débats sur l'impact de cette technologie sur l'emploi agricole sont déjà vifs."
+        },
+        {
+            "id": 7,
+            "title": "Un mystérieux flash dans le ciel inquiète les habitants de Bordeaux",
+            "date": "20/12/2024",
+            "content": "Des centaines de Bordelais ont rapporté avoir vu un flash lumineux suivi d'une détonation dans le ciel. Les astronomes locaux pensent qu'il pourrait s'agir d'une météorite ayant explosé en altitude. Toutefois, aucune trace de débris n'a été retrouvée au sol, alimentant les spéculations les plus folles."
+        },
+        {
+            "id": 8,
+            "title": "Un marché de Noël hors du commun attire les foules à Strasbourg",
+            "date": "21/12/2024",
+            "content": "Le célèbre marché de Noël de Strasbourg a cette année introduit un 'village des merveilles' où des artisans du monde entier présentent leurs créations insolites. Parmi les attractions, une machine à fabriquer des flocons de neige artificiels a émerveillé petits et grands. La ville s'attend à accueillir un nombre record de visiteurs."
+        },
+        {
+            "id": 9,
+            "title": "Une pénurie inattendue de sapins de Noël frappe la France",
+            "date": "22/12/2024",
+            "content": "À quelques jours de Noël, de nombreuses familles françaises peinent à trouver un sapin en raison d'une pénurie imprévue. Les producteurs expliquent que des conditions climatiques difficiles au printemps ont ralenti la croissance des arbres. Des alternatives comme les sapins artificiels et les décorations écologiques gagnent en popularité."
+        },
+        {
+            "id": 10,
+            "title": "Un château médiéval transformé en hôtel de luxe",
+            "date": "22/12/2024",
+            "content": "Le château de Montfort, situé en Dordogne, a ouvert ses portes après une rénovation de plusieurs millions d'euros. Désormais transformé en hôtel de luxe, le site propose une expérience unique alliant histoire et confort moderne. Les premiers visiteurs saluent la qualité de l'accueil et la richesse du patrimoine restauré."
+        }
+    ]
+}
+]

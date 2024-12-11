@@ -1,0 +1,116 @@
+/* Styles généraux */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #b3b3b3;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px solid #007bff;
+}
+
+header p {
+    margin: 5px 0 0;
+    font-size: 14px;
+}
+
+main {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 10px;
+}
+
+/* Titres des articles */
+#titles-container {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#titles-container li {
+    background: #ffffff;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 8px;
+    border: 2px solid #007bff;
+    font-size: 21px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.25); /* Ombre plus marquée */
+}
+
+#titles-container li:hover {
+    background: #f0f8ff;
+    border-color: #0056b3;
+    transform: scale(1.02);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.35); /* Ombre encore plus marquée au survol */
+}
+
+#titles-container li:active {
+    background: #e2e6ea;
+    transform: scale(0.98);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Réduction de l'ombre au clic */
+}
+
+/* Contenu des articles */
+.article-content {
+    background: #ffffff;
+    margin: 15px 0; /* Espacement vertical plus large */
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 20px;
+    color: #444;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); /* Ombre marquée */
+    display: none;
+    transition: all 0.3s ease;
+}
+
+.article-content.hidden {
+    opacity: 0;
+    transform: translateY(-10px);
+}
+
+.article-content.active {
+    opacity: 1;
+    transform: translateY(0);
+    background: #fdfdfd;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.4); /* Ombre très marquée pour se démarquer */
+}
+
+.article-content p {
+    margin: 10px 0;
+    line-height: 1.8;
+}
+
+.article-content em {
+    color: #555;
+    font-size: 14px;
+    font-style: italic;
+}
+
+/* Responsivité */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    #titles-container li {
+        font-size: 14px;
+        padding: 12px;
+    }
+
+    .article-content {
+        font-size: 14px;
+        padding: 12px;
+    }
+}
